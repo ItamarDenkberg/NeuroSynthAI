@@ -1,0 +1,30 @@
+{
+  "name": "neurosynthai",
+  "version": "0.0.1",
+  "description": "NeuroSynth AI is a program that creates a humanlike, deep-learning AI with memories, feelings, and an AI that can interact within the program that hosts the AI and maybe outside of it in the future.",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ItamarDenkberg/NeuroSynthAI.git"
+  },
+  "keywords": [
+    "neurosynth",
+    "ai",
+    "ai",
+    "deep",
+    "learning"
+  ],
+  "author": "Itamar Denkberg",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/ItamarDenkberg/NeuroSynthAI/issues"
+  },
+  "homepage": "https://github.com/ItamarDenkberg/NeuroSynthAI#readme",
+  "dependencies": {
+    "electron": "^23.1.1"
+  }
+}
